@@ -12,7 +12,7 @@ Projede __.env__ dosyasında içeriğinde şu veriler bulunmaktadır.
 
 • LANGCHAIN_PROJECT=PROJECT_NAME
 
-Projede, Gemini AI ile birlikte Langchain framework'ü kullanılmıştır. Langchain, büyük dil mmodelleri ile uygulama geliştirilmesinde kullanılmaktadır. Output ve input değerlerini isteğimize göre filtrelenmesini, zincir yapısında LLM'lerin birbirleri ile ve insanlar ile konuşmasını sağlamaktadır.
+Projede, Gemini AI ile birlikte Langchain framework'ü kullanılmıştır. Langchain, büyük dil modelleri ile uygulama geliştirilmesinde kullanılmaktadır. Output ve input değerlerini isteğimize göre filtrelenmesini, zincir yapısında LLM'lerin birbirleri ile ve insanlar ile konuşmasını sağlamaktadır.
 
 Langchain'in bir hizmeti olan __LangServe__ ile proje deploy edilerek bir arayüz ekranında kullanım kolaylığı sağlamaktadır. Code review projesinin örnek bir çıktısı Şekil 1'de görülmektedir.
 
