@@ -23,7 +23,10 @@ Langchain'in bir hizmeti olan __LangServe__ ile proje deploy edilerek bir arayü
 Şekil 1. Code review projesinin LangServe kullanılarak gösterimi
 
 <br>
+<br>
+
 Langchain'in bir diğer hizmeti __Langsmith__ ile projede yapılan işlemleri, debug işlemleri, ücretli API'ler kullanıldığında ne kadar token kullanıldığı ve kaç dolar harcanıldığı gibi bilgiler bir dashboard üzerinden takip edilebilmektedir. Örnek bir Langsmith ekranı Şekil 2'de görülmektedir.
+<br>
 <br>
 
 <div align="center">
